@@ -23,18 +23,21 @@
           git clone https://github.com/mayurgulhane/django-assignment.git
         ```
 
+     2.  Go to the project directory:
+        ```bash
+           $ cd django-assignment
+        ```
 
-
-    3. Create and fire up your virtual environment:
+    4. Create and fire up your virtual environment:
         ```bash
             $ python -m venv virtual_name
             $ cd virtual_name/bin/activate
         ```
-    4. Install the dependencies needed to run the app:
+    5. Install the dependencies needed to run the app:
         ```bash
             $ pip install -r requirements.txt
         ```
-    5. Make those migrations work
+    6. Make those migrations work
         ```bash
             $ python manage.py makemigrations
             $ python manage.py migrate
