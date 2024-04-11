@@ -23,7 +23,7 @@
           git clone https://github.com/mayurgulhane/django-assignment.git
         ```
 
-     2.  Go to the project directory:
+    2.  Go to the project directory:
         ```bash
            $ cd django-assignment
         ```
